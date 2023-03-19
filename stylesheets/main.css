@@ -9,5 +9,11 @@ h1 {
 }
 
 h2 {
-  float: right
+  padding: 16px;
+  text-align: right;
+  font-family: verdana;
+  font-size: 16px;
+  font-weight: normal;
+  background-color: grey
+  color: white 
 }
